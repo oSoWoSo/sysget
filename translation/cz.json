@@ -1,0 +1,18 @@
+{
+  "help": "sysget manual [OPTION] [PACKAGE(S)]\ninstall [CRITERION]\ninstall balíček v repozitářích\ninstall [PACKAGE] [PACKAGE]\ninstall balíček z úložišť\nodstranit [PACHET] [PACHET]\nuninstalovat balíček\nautoremove\t\t\t\t\tuninstalovat nepotřebné (osiřelé) balíčky\nupdate\t\t\t\t\tupdate database\nupgrade\tupgrade system\nupgrade [PACKAGE] [PACKAGE]\nupgrade určitého balíčku\nclean\tclean downloads\nset [NEW MANAGER]\otevření nového správce balíčků\nhelp\otevření této stránky s příručkou\nabout\tview legal information",
+  "vybrat": "Choose a package manager:", 
+  "nonum": "Zadejte číslo, ne blistry. ", 
+  "invalidinputrange": "Vstup je mimo dav. ", 
+  "brokenconf": "Vaše konfigurace je špatná, restartujte program a vytvořte novou.", 
+  "errordelconf": "Chyba při mazání špatného konfiguračního souboru, jste root?", 
+  "nooperation": "Chyba, nezadali jste operaci.", 
+  "noquery": "Chyba, nezadali jste vyhledávací kritéria.",
+  "noinstallpkg": "Chyba, pro zadanou instalaci neexistuje žádný balíček. ", 
+  "noremovepkg": "Chyba, žádný balíček pro zadané odstranění.", 
+  "nonewpkgmanager": "Chyba, žádný nový správce balíčků.", 
+  "changepkgmanager": "Správce balíčků byl změněn na ", 
+  "unknownop": "Neznámá akce\nZkuste sysget help. ", 
+  "openconferr": "Cannot open configuration file.", 
+  "assignpkgmanager": "Cannot assign a package manager, are you root?", 
+  "invalidsysget_args": "Invalid sysget_args file"
+}
